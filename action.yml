@@ -1,4 +1,4 @@
-name: CryptoSoftInc-Aggregated-SBOM-DT
+name: CryptoSoftInc-Aggregated-SBOM-Dependency-Track
 description: This action builds a CycloneDX Format Software Bill of Materials (SBOM) for a repository and sends it to a OWASP DT server
 inputs:
   dt-url:
